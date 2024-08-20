@@ -1,4 +1,4 @@
-Telemetron Custom Pull Script
+Telemetron Custom Pull Script \n
 Script that takes in a csv list of different SXIDs, start and end times, and epochs. Able to output telemetron telemetry pull for custom input.
 
 Inputs: pull_params.csv (change as necessary)
